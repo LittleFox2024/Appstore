@@ -36,7 +36,7 @@ As an interesting discovery, I've archived them here on GitHub for educational p
 
 ## What's Inside
 
-- Complete React/TypeScript source code
+- Complete Svelte 4/TypeScript source code
 - State management logic
 - UI components
 - API integration code
