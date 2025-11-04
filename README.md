@@ -1,12 +1,6 @@
-# apps.apple.com
+# Apple App Store frontend source code archive
 
-Apple App Store frontend source code archive
-
-## About
-
-This repository contains the frontend source code extracted from [https://apps.apple.com/](https://apps.apple.com/).
-
-Saved using the Chrome extension [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb).
+Extracted from [https://apps.apple.com/](https://apps.apple.com/). Saved using the Chrome extension [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb).
 
 ### How is this possible?
 
