@@ -1,10 +1,10 @@
 # Apple App Store frontend source code archive
 
-Extracted from [https://apps.apple.com/](https://apps.apple.com/). Saved using the Chrome extension [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb).
+Extracted from [https://apps.apple.com/](https://apps.apple.com/). Saved using the Chrome extension [Save All Resources](https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb). This is a fork to hopefully preserve this a while longer.
 
 ### How is this possible?
 
-Because Apple forgot to disable sourcemaps in production on the App Store website 🙃
+Apple forgot to disable sourcemaps in production on the App Store website. They since removed them, but these archives are still available.
 
 <img width="795" height="548" alt="image" src="https://github.com/user-attachments/assets/59211dfb-5a56-456b-85b8-d292c1cfbfa2" />
 
@@ -45,11 +45,11 @@ The source code was obtained from publicly accessible resources through browser 
 
 ## License
 
-The content in this repository belongs to Apple Inc. If there are any copyright concerns, please contact for removal.
+The content in this repository belongs to Apple Inc. But they made it public... so as far as I know its legal to study these (but dont use them in your own stuff!)
 
 ---
 
-*Remember: Always disable sourcemaps in production! 😉*
+*Remember: Always disable sourcemaps in production!*
 
 ## Related
 
